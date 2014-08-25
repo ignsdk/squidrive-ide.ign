@@ -8,9 +8,9 @@
 		"transparent" : false, 
 		"noframe" : false, 
 		"fullscreen" : false,
-		"maximize" : false,
-		"width" : 300,
-		"height" : 400
+		"maximize" : true,
+		"width" : 600,
+		"height" : 800
 	},
   "button" : [
 		"back",

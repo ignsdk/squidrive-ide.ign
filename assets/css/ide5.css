@@ -101,7 +101,7 @@ nav {
   box-sizing: border-box;
 }
 .statusbar {
-  height: 18px;
+  height: auto;
   margin: 0;
   padding: 0;
   position: absolute;
